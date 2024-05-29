@@ -195,7 +195,7 @@
 
 ### 🌐 포팅 매뉴얼
 
-[포팅 매뉴얼 보러가기](https://lab.ssafy.com/s10-final/S10P31A105/-/blob/master/exec/%ED%8F%AC%ED%8C%85%EB%A9%94%EB%89%B4%EC%96%BC.md?ref_type=heads)
+[포팅 매뉴얼 보러가기](https://github.com/KuMMii/Farmirang/blob/master/exec/%ED%8F%AC%ED%8C%85%EB%A9%94%EB%89%B4%EC%96%BC.md)
 
 ### 💻 서비스 화면
 
