@@ -339,13 +339,3 @@
 <img src="./Assets/pic/mock up.PNG" />
 
 #### [4. 기능 명세서](https://dig04214.notion.site/c60e3f1def934b31bcbd66fb6381c464?pvs=4)
-
-#### 5. API 명세서
-
-- [Member API](http://k10a105.p.ssafy.io:8081/api/swagger-ui/index.html#/)
-- [Agency API](http://k10a105.p.ssafy.io:8083/api/swagger-ui/index.html#/)
-- [Field & Recommend API](http://k10a105.p.ssafy.io:8083/api/swagger-ui/index.html#/)
-- [Diary API](http://k10a105.p.ssafy.io:8082/swagger-ui/index.html#/)
-- [Design API](http://k10a105.p.ssafy.io:8084/swagger-ui/index.html#/)
-- [Donation API](http://k10a105.p.ssafy.io:8085/swagger-ui/index.html#/)
-- [Chat API](http://k10a105.p.ssafy.io:8086/swagger-ui/index.html)
